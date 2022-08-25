@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2? family= Oswald:wght@500 & family= Poppins:wght@600 & family= Roboto & display=swap');
+.corpo{
+    background-color: white;
+    border-radius: 10px;
+    padding: 50px;
+    margin-left: 400px;
+    margin-right: 400px;
+
+}
+body{
+    background-color:wheat;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    
+}
+#btConverter{
+    font-size: 15px;
+    padding: 0.4rem;
+    border-radius: 17px;
+    cursor: pointer;
+    background:tan;
+    transition: all 0.3s ease
+
+}
+
+#btConverter:hover{
+    background:rosybrown;
+}
+
+#inTitulo{
+    margin-bottom: 0.8rem;
+    border-radius: 7px;
+    padding: 5px;
+}
+
+#inDuracao{
+    margin-bottom: 0.8rem;
+    border-radius: 7px;
+    padding: 5px;
+}
+
+h2{
+    font-family: "Poppins", sans-serif;
+}
